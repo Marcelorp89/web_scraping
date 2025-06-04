@@ -10,6 +10,9 @@ Este es un pequeño proyecto de scraping hecho con Python. El script extrae auto
 
 ## Como usarlo:
 
+1. Clona el repositorio o descarga el archivo 'webscraping.py'
+2. Instala las depedendicas (si no las tienes):
+
 Instala las dependencias:
 
 pip install request
