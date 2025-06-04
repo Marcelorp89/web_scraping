@@ -8,3 +8,10 @@ Este es un pequeño proyecto de scraping hecho con Python. El script extrae auto
 - request
 - BeautifulSoup4
 
+## Como usarlo:
+
+Instala las dependencias:
+
+pip install request
+pip install BeautifulSoup4
+
