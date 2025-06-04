@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 url = "https://quotes.toscrape.com"
 response = requests.get(url)
 
-#print(response.text)
+print(response.text)
 
 soup = BeautifulSoup(response.text, "html.parser")
 
