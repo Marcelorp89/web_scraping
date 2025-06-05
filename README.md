@@ -13,8 +13,9 @@ Este es un pequeño proyecto de scraping hecho con Python. El script extrae auto
 1. Clona el repositorio o descarga el archivo 'webscraping.py'
 2. Instala las depedendicas (si no las tienes):
 
-Instala las dependencias:
+>[!IMPORTANT]
+>No olvides instalar las dependencias:
 
-pip install request
-pip install BeautifulSoup4
+- pip install request
+- pip install BeautifulSoup4
 
